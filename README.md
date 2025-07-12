@@ -1,6 +1,6 @@
 ### 👋 Olá! Eu sou Victor Lima de Oliveira
 
-🎓 Sou formado em Técnico em Desenvolvimento de Sistemas e atualmente curso **Engenharia de Produção**.  
+🎓 Sou formado em Técnico em Desenvolvimento de Sistemas e técnico em mecatrônica e atualmente curso **Engenharia de Produção**.  
 💡 Busco unir meus conhecimentos em tecnologia e administração para desenvolver soluções criativas, eficientes e com impacto real.
 💼 Durante minha formação e em projetos desenvolvidos, trabalhei com diversas tecnologias.
 
